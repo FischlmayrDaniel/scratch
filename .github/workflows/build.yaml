@@ -20,4 +20,4 @@ jobs:
           pwd
           ls -l
           ./mvnw -B compile package
-        working-directory: ./backend
+        working-directory: backend
